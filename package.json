@@ -1,0 +1,17 @@
+{
+  "name": "roku-fun",
+  "version": "1.0.0",
+  "description": "Home Roku Remote",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "roku",
+    "ssdp",
+    "udp",
+    "spa"
+  ],
+  "author": "Austin Mullins <austin.mullins@gmail.com>",
+  "license": "GPL-3.0-or-later"
+}

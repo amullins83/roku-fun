@@ -1,0 +1,9 @@
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=3600
+NT: roku:ecp
+NTS: ssdp:byebye
+Location: http://192.168.4.35:8060/
+USN: uuid:roku:ecp:2N006S094024
+device-group.roku.com: 2E7B91FB0BC5A08FCEF9
+
