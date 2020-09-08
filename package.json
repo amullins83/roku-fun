@@ -13,5 +13,6 @@
     "spa"
   ],
   "author": "Austin Mullins <austin.mullins@gmail.com>",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "repository": "https://github.com/amullins83/roku-fun"
 }
